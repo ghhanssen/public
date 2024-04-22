@@ -1,47 +1,51 @@
 {
-    {
-        "version": "Windows 10 21H2",
-        "codename": "21H2",
-        "build": "19044",
-        "osversion": "10.0.19044",
-        "release_date": "2021.11.16",
-        "support_end_pro": "2024.06.11",
-        "support_end_enterprise": "2024.06.11"
-    },
-    {
-        "version": "Windows 10 22H2",
-        "codename": "22H2",
-        "build": "19045",
-        "osversion": "10.0.19045",
-        "release_date": "2022.10.18",
-        "support_end_pro": "2025.10.14",
-        "support_end_enterprise": "2025.10.14"
-    },
-    {
-        "version": "Windows 11 21H2",
-        "codename": "Sun Valley",
-        "build": "22000",
-        "osversion": "10.0.22000",
-        "release_date": "2021.10.05",
-        "support_end_pro": "2023.10.10",
-        "support_end_enterprise": "2023.10.10"
-    },
-    {
-        "version": "Windows 11 22H2",
-        "codename": "Sun Valley 2",
-        "build": "22621",
-        "osversion": "10.0.22621",
-        "release_date": "2022.09.20",
-        "support_end_pro": "2024.10.08",
-        "support_end_enterprise": "2024.10.08"
-    },
-    {
-        "version": "Windows 11 23H2",
-        "codename": "Sun Valley 3",
-        "build": "22631",
-        "osversion": "10.0.22631",
-        "release_date": "2023.10.31",
-        "support_end_pro": "2025.11.11",
-        "support_end_enterprise": "2025.11.11"
-    }
+    "Windows 10": [
+        {
+            "version": "21H2",
+            "codename": "21H2",
+            "build": "19044",
+            "osversion": "10.0.19044",
+            "release_date": "2021.11.16",
+            "support_end_pro": "2024.06.11",
+            "support_end_enterprise": "2024.06.11"
+        },
+        {
+            "version": "22H2",
+            "codename": "22H2",
+            "build": "19045",
+            "osversion": "10.0.19045",
+            "release_date": "2022.10.18",
+            "support_end_pro": "2025.10.14",
+            "support_end_enterprise": "2025.10.14"
+        }
+    ],
+    "Windows 11": [
+        {
+            "version": "21H2",
+            "codename": "Sun Valley",
+            "build": "22000",
+            "osversion": "10.0.22000",
+            "release_date": "2021.10.05",
+            "support_end_pro": "2023.10.10",
+            "support_end_enterprise": "2023.10.10"
+        },
+        {
+            "version": "22H2",
+            "codename": "Sun Valley 2",
+            "build": "22621",
+            "osversion": "10.0.22621",
+            "release_date": "2022.09.20",
+            "support_end_pro": "2024.10.08",
+            "support_end_enterprise": "2024.10.08"
+        },
+        {
+            "version": "23H2",
+            "codename": "Sun Valley 3",
+            "build": "22631",
+            "osversion": "10.0.22631",
+            "release_date": "2023.10.31",
+            "support_end_pro": "2025.11.11",
+            "support_end_enterprise": "2025.11.11"
+        }
+    ]
 }
