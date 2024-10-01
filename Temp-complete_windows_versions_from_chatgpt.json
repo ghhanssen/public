@@ -1,0 +1,166 @@
+{
+    "Windows 10": [
+        {
+            "os": "Windows 10",
+            "version": "21H2",
+            "codename": "21H2",
+            "build": "19044",
+            "osversion": "10.0.19044",
+            "release_date": "2021-11-16",
+            "support_end_pro": "2024-06-11",
+            "support_end_enterprise": "2024-06-11"
+        },
+        {
+            "os": "Windows 10",
+            "version": "22H2",
+            "codename": "22H2",
+            "build": "19045",
+            "osversion": "10.0.19045",
+            "release_date": "2022-10-18",
+            "support_end_pro": "2025-10-14",
+            "support_end_enterprise": "2025-10-14"
+        },
+        {
+            "os": "Windows 10",
+            "version": "1507",
+            "codename": "Threshold 1",
+            "build": "10240",
+            "osversion": "10.0.10240",
+            "release_date": "2015-07-29",
+            "support_end_pro": "2017-05-09",
+            "support_end_enterprise": "2017-05-09"
+        },
+        {
+            "os": "Windows 10",
+            "version": "1511",
+            "codename": "Threshold 2",
+            "build": "10586",
+            "osversion": "10.0.10586",
+            "release_date": "2015-11-10",
+            "support_end_pro": "2017-10-10",
+            "support_end_enterprise": "2017-10-10"
+        },
+        {
+            "os": "Windows 10",
+            "version": "1607",
+            "codename": "Redstone 1",
+            "build": "14393",
+            "osversion": "10.0.14393",
+            "release_date": "2016-08-02",
+            "support_end_pro": "2018-04-10",
+            "support_end_enterprise": "2026-10-14"
+        },
+        {
+            "os": "Windows 10",
+            "version": "1703",
+            "codename": "Redstone 2",
+            "build": "15063",
+            "osversion": "10.0.15063",
+            "release_date": "2017-04-05",
+            "support_end_pro": "2018-10-09",
+            "support_end_enterprise": "2019-10-08"
+        },
+        {
+            "os": "Windows 10",
+            "version": "1709",
+            "codename": "Redstone 3",
+            "build": "16299",
+            "osversion": "10.0.16299",
+            "release_date": "2017-10-17",
+            "support_end_pro": "2019-04-09",
+            "support_end_enterprise": "2020-10-13"
+        },
+        {
+            "os": "Windows 10",
+            "version": "1803",
+            "codename": "Redstone 4",
+            "build": "17134",
+            "osversion": "10.0.17134",
+            "release_date": "2018-04-30",
+            "support_end_pro": "2019-11-12",
+            "support_end_enterprise": "2020-11-10"
+        },
+        {
+            "os": "Windows 10",
+            "version": "1809",
+            "codename": "Redstone 5",
+            "build": "17763",
+            "osversion": "10.0.17763",
+            "release_date": "2018-11-13",
+            "support_end_pro": "2020-11-10",
+            "support_end_enterprise": "2025-01-09"
+        },
+        {
+            "os": "Windows 10",
+            "version": "1903",
+            "codename": "19H1",
+            "build": "18362",
+            "osversion": "10.0.18362",
+            "release_date": "2019-05-21",
+            "support_end_pro": "2020-12-08",
+            "support_end_enterprise": "2020-12-08"
+        },
+        {
+            "os": "Windows 10",
+            "version": "1909",
+            "codename": "19H2",
+            "build": "18363",
+            "osversion": "10.0.18363",
+            "release_date": "2019-11-12",
+            "support_end_pro": "2021-05-11",
+            "support_end_enterprise": "2022-05-10"
+        },
+        {
+            "os": "Windows 10",
+            "version": "2004",
+            "codename": "20H1",
+            "build": "19041",
+            "osversion": "10.0.19041",
+            "release_date": "2020-05-27",
+            "support_end_pro": "2021-12-14",
+            "support_end_enterprise": "2021-12-14"
+        },
+        {
+            "os": "Windows 10",
+            "version": "20H2",
+            "codename": "20H2",
+            "build": "19042",
+            "osversion": "10.0.19042",
+            "release_date": "2020-10-20",
+            "support_end_pro": "2022-05-10",
+            "support_end_enterprise": "2023-05-09"
+        }
+    ],
+    "Windows 11": [
+        {
+            "os": "Windows 11",
+            "version": "21H2",
+            "codename": "Sun Valley",
+            "build": "22000",
+            "osversion": "10.0.22000",
+            "release_date": "2021-10-05",
+            "support_end_pro": "2023-10-10",
+            "support_end_enterprise": "2023-10-10"
+        },
+        {
+            "os": "Windows 11",
+            "version": "22H2",
+            "codename": "Sun Valley 2",
+            "build": "22621",
+            "osversion": "10.0.22621",
+            "release_date": "2022-09-20",
+            "support_end_pro": "2024-10-08",
+            "support_end_enterprise": "2024-10-08"
+        },
+        {
+            "os": "Windows 11",
+            "version": "23H2",
+            "codename": "Sun Valley 3",
+            "build": "22631",
+            "osversion": "10.0.22631",
+            "release_date": "2023-10-31",
+            "support_end_pro": "2025-11-11",
+            "support_end_enterprise": "2025-11-11"
+        }
+    ]
+}
